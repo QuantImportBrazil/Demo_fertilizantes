@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport 🎄✨  
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport   
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
 
@@ -33,7 +33,8 @@ Elaboradas por UF/NCM ou Município/SH4:
 > [Jundiaí - SP](https://quantimportbrazil.github.io/Demo_fertilizantes_Jundiai-SP/)  
     
 ### Exemplo em Destaque:  
-- [Importância dos Fatores](https://quantimportbrazil.github.io/Demo_fertilizantes_Importancia_dos_Fatores)  
+Nesse exemplo apresentamos o fator mais influente sobre a previsão de cada mê. O objetivo é demonstrar a capacidade de identificar relacionamentos do modelo preditivo.  
+- [Importância dos Fatores](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
   
 ---
 
