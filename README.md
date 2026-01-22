@@ -20,16 +20,13 @@ Elaboradas por UF/NCM ou Município/SH4:
 > [MG](https://quantimportbrazil.github.io/Demo_fertilizantes_MG/)  
 > [Uberaba - MG](https://quantimportbrazil.github.io/Demo_fertilizantes_Uberaba-MG/)  
   
-> [MT](https://quantimportbrazil.github.io/Demo_fertilizantes_MT/)  
 > [Rondonópolis - MT](https://quantimportbrazil.github.io/Demo_fertilizantes_Rondonopolis-MT/)  
    
 > [PR](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
 > [Paranaguá - PR](https://quantimportbrazil.github.io/Demo_fertilizantes_Paranagua-PR/)  
-  
-> [RS](https://quantimportbrazil.github.io/Demo_fertilizantes_RS/)  
+
 > [Rio Grande - RS](https://quantimportbrazil.github.io/Demo_fertilizantes_Rio-Grande-RS/)  
-    
-> [SP](https://quantimportbrazil.github.io/Demo_fertilizantes_SP/)  
+
 > [Jundiaí - SP](https://quantimportbrazil.github.io/Demo_fertilizantes_Jundiai-SP/)  
     
 ### Exemplo em Destaque:  
