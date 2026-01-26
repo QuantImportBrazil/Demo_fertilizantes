@@ -14,26 +14,25 @@ Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/im
 
 Elaboradas por UF/NCM ou Município/SH4:  
 
-> [BA](https://quantimportbrazil.github.io/ba_ureia_mesmo_em_solucao_aquosa/)  
-> [Candeias - BA](https://quantimportbrazil.github.io/candeias-ba_azotados/)  
+> [BA - ureia](https://quantimportbrazil.github.io/ba_ureia_mesmo_em_solucao_aquosa/)  
+> [Candeias - BA - nitrogenados](https://quantimportbrazil.github.io/candeias-ba_azotados/)  
   
-> [GO](https://quantimportbrazil.github.io/go_ureia_mesmo_em_solucao_aquosa/)  
-> [Catalão - GO](https://quantimportbrazil.github.io/catalao-go_azotados/)
+> [GO - ureia](https://quantimportbrazil.github.io/go_ureia_mesmo_em_solucao_aquosa/)  
+> [Catalão - GO - nitrogenados](https://quantimportbrazil.github.io/catalao-go_azotados/)
   
-> [MG](https://quantimportbrazil.github.io/mg_ureia_mesmo_em_solucao_aquosa/)  
-> [Uberaba - nitrogenados - MG](https://quantimportbrazil.github.io/uberaba-mg_azotados/)  
-> [Uberaba - potássicos - MG](https://quantimportbrazil.github.io/uberaba-mg_potassicos/)  
+> [MG - ureia](https://quantimportbrazil.github.io/mg_ureia_mesmo_em_solucao_aquosa/)  
+> [Uberaba - MG - nitrogenados](https://quantimportbrazil.github.io/uberaba-mg_azotados/)  
+> [Uberaba - MG - potássicos](https://quantimportbrazil.github.io/uberaba-mg_potassicos/)  
+  
+> [MT - ureia](https://quantimportbrazil.github.io/mt_ureia_mesmo_em_solucao_aquosa/)  
+> [Rondonópolis - MT - nitrogenados](https://quantimportbrazil.github.io/rondonopolis-mt_azotados/)  
 
-  
-> [MT](https://quantimportbrazil.github.io/mt_ureia_mesmo_em_solucao_aquosa/)  
-> [Rondonópolis - MT](https://quantimportbrazil.github.io/rondonopolis-mt_azotados/)  
-   
-> [PR](https://quantimportbrazil.github.io/pr_ureia_mesmo_em_solucao_aquosa/)  
-> [Paranaguá - nitrigenados - PR](https://quantimportbrazil.github.io/paranagua-pr_azotados/)  
-> [Paranaguá - potássicos - PR](https://quantimportbrazil.github.io/pr_outros_cloretos_de_potassio/)  
+> [PR - cloreto de potássio](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)> 
+> [Paranaguá - PR - nitrigenados](https://quantimportbrazil.github.io/paranagua-pr_azotados/)  
+> [Paranaguá - PR - potássicos](https://quantimportbrazil.github.io/pr_outros_cloretos_de_potassio/)  
   
 
-> [RS](https://quantimportbrazil.github.io/rs_ureia_mesmo_em_solucao_aquosa/)  
+> [RS - ureia ](https://quantimportbrazil.github.io/rs_ureia_mesmo_em_solucao_aquosa/)  
 > [Canoas - RS](https://quantimportbrazil.github.io/canoas-rs_azotados/)  
 > [Rio Grande - RS](https://quantimportbrazil.github.io/rio_grande-rs_azotados/)
 
