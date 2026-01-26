@@ -27,10 +27,12 @@ Elaboradas por UF/NCM ou Município/SH4:
 > [Rondonópolis - MT](https://quantimportbrazil.github.io/rondonopolis-mt_azotados/)  
    
 > [PR](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
-> [Paranaguá - PR](https://quantimportbrazil.github.io/Demo_fertilizantes_Paranagua-PR/)  
+> [Paranaguá - PR](https://quantimportbrazil.github.io/paranagua-pr_azotados/)  
 
 > [RS](https://quantimportbrazil.github.io/rs_ureia_mesmo_em_solucao_aquosa/)  
-> [Rio Grande - RS](https://quantimportbrazil.github.io/rio_grande-rs_potassicos/)
+> [Canoas - RS](https://quantimportbrazil.github.io/canoas-rs_azotados/)
+> [Rio Grande - RS](https://quantimportbrazil.github.io/rio_grande-rs_azotados/)
+
 
 > [SP](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
 > [Jundiaí - SP](https://quantimportbrazil.github.io/jundiai-sp_azotados/)  
