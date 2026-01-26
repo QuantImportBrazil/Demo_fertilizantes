@@ -26,7 +26,7 @@ Elaboradas por UF/NCM ou Município/SH4:
 > [MT](https://quantimportbrazil.github.io/mt_ureia_mesmo_em_solucao_aquosa/)  
 > [Rondonópolis - MT](https://quantimportbrazil.github.io/rondonopolis-mt_azotados/)  
    
-> [PR](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
+> [PR](https://quantimportbrazil.github.io/pr_ureia_mesmo_em_solucao_aquosa/)  
 > [Paranaguá - PR](https://quantimportbrazil.github.io/paranagua-pr_azotados/)  
 
 > [RS](https://quantimportbrazil.github.io/rs_ureia_mesmo_em_solucao_aquosa/)  
