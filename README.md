@@ -21,7 +21,6 @@ Elaboradas por UF/NCM ou Município/SH4:
 > [Catalão - GO](https://quantimportbrazil.github.io/catalao-go_azotados/)
   
 > [MG](https://quantimportbrazil.github.io/mg_ureia_mesmo_em_solucao_aquosa/)  
-> [Pouso Alegre - MG](https://quantimportbrazil.github.io/Demo_fertilizantes_Uberaba-MG/)  
 > [Uberaba - MG](https://quantimportbrazil.github.io/uberaba-mg_azotados/)
   
 > [MT](https://quantimportbrazil.github.io/Demo_fertilizantes_MT/)  
