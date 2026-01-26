@@ -21,13 +21,17 @@ Elaboradas por UF/NCM ou Município/SH4:
 > [Catalão - GO](https://quantimportbrazil.github.io/catalao-go_azotados/)
   
 > [MG](https://quantimportbrazil.github.io/mg_ureia_mesmo_em_solucao_aquosa/)  
-> [Uberaba - MG](https://quantimportbrazil.github.io/uberaba-mg_azotados/)
+> [Uberaba - nitrogenados - MG](https://quantimportbrazil.github.io/uberaba-mg_azotados/)  
+> [Uberaba - potássicos - MG](https://quantimportbrazil.github.io/uberaba-mg_potassicos/)  
+
   
 > [MT](https://quantimportbrazil.github.io/mt_ureia_mesmo_em_solucao_aquosa/)  
 > [Rondonópolis - MT](https://quantimportbrazil.github.io/rondonopolis-mt_azotados/)  
    
 > [PR](https://quantimportbrazil.github.io/pr_ureia_mesmo_em_solucao_aquosa/)  
-> [Paranaguá - PR](https://quantimportbrazil.github.io/paranagua-pr_azotados/)  
+> [Paranaguá - nitrigenados - PR](https://quantimportbrazil.github.io/paranagua-pr_azotados/)  
+> [Paranaguá - potássicos - PR](https://quantimportbrazil.github.io/pr_outros_cloretos_de_potassio/)  
+  
 
 > [RS](https://quantimportbrazil.github.io/rs_ureia_mesmo_em_solucao_aquosa/)  
 > [Canoas - RS](https://quantimportbrazil.github.io/canoas-rs_azotados/)  
