@@ -14,19 +14,26 @@ Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/im
 
 Elaboradas por UF/NCM ou Município/SH4:  
 
-> [BA](https://quantimportbrazil.github.io/Demo_fertilizantes_BA/)  
-> [Candeias - BA](https://quantimportbrazil.github.io/Demo_fertilizantes_Candeias-BA/)  
+> [BA](https://quantimportbrazil.github.io/ba_ureia_mesmo_em_solucao_aquosa/)  
+> [Candeias - BA](https://quantimportbrazil.github.io/candeias-ba_azotados/)  
   
-> [MG](https://quantimportbrazil.github.io/Demo_fertilizantes_MG/)  
-> [Uberaba - MG](https://quantimportbrazil.github.io/Demo_fertilizantes_Uberaba-MG/)  
+> [GO](https://quantimportbrazil.github.io/go_ureia_mesmo_em_solucao_aquosa/)  
+> [Catalão - GO](https://quantimportbrazil.github.io/catalao-go_azotados/)
   
+> [MG](https://quantimportbrazil.github.io/mg_ureia_mesmo_em_solucao_aquosa/)  
+> [Pouso Alegre - MG](https://quantimportbrazil.github.io/Demo_fertilizantes_Uberaba-MG/)
+> [Uberaba - MG](https://quantimportbrazil.github.io/uberaba-mg_azotados/)
+  
+> [MT](https://quantimportbrazil.github.io/Demo_fertilizantes_MT/)
 > [Rondonópolis - MT](https://quantimportbrazil.github.io/Demo_fertilizantes_Rondonopolis-MT/)  
    
 > [PR](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
 > [Paranaguá - PR](https://quantimportbrazil.github.io/Demo_fertilizantes_Paranagua-PR/)  
 
-> [Rio Grande - RS](https://quantimportbrazil.github.io/Demo_fertilizantes_Rio-Grande-RS/)  
+> [RS](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
+> [Rio Grande - RS](https://quantimportbrazil.github.io/rio_grande-rs_potassicos/)
 
+> [SP](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
 > [Jundiaí - SP](https://quantimportbrazil.github.io/Demo_fertilizantes_Jundiai-SP/)  
     
 ### Exemplo em Destaque:  
