@@ -21,10 +21,10 @@ Elaboradas por UF/NCM ou Município/SH4:
 > [Catalão - GO](https://quantimportbrazil.github.io/catalao-go_azotados/)
   
 > [MG](https://quantimportbrazil.github.io/mg_ureia_mesmo_em_solucao_aquosa/)  
-> [Pouso Alegre - MG](https://quantimportbrazil.github.io/Demo_fertilizantes_Uberaba-MG/)
+> [Pouso Alegre - MG](https://quantimportbrazil.github.io/Demo_fertilizantes_Uberaba-MG/)  
 > [Uberaba - MG](https://quantimportbrazil.github.io/uberaba-mg_azotados/)
   
-> [MT](https://quantimportbrazil.github.io/Demo_fertilizantes_MT/)
+> [MT](https://quantimportbrazil.github.io/Demo_fertilizantes_MT/)  
 > [Rondonópolis - MT](https://quantimportbrazil.github.io/Demo_fertilizantes_Rondonopolis-MT/)  
    
 > [PR](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
@@ -35,12 +35,9 @@ Elaboradas por UF/NCM ou Município/SH4:
 
 > [SP](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
 > [Jundiaí - SP](https://quantimportbrazil.github.io/Demo_fertilizantes_Jundiai-SP/)  
-    
-### Exemplo em Destaque:  
-Nesse exemplo apresentamos o fator mais influente sobre a previsão de cada mê. O objetivo é demonstrar a capacidade de identificar relacionamentos do modelo preditivo.  
-- [Importância dos Fatores](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
-  
----
+
+
+---  
 
 ## Contato
 **André Coutinho Bueno**  
