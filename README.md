@@ -45,7 +45,7 @@ Nesta edição, focamos nesse produto alertando que esse evento trará erros mé
 > [Rondonópolis - nitrogenados](https://quantimportbrazil.github.io/rondonopolis-mt_azotados/)  
 
 > [PR - ureia](https://quantimportbrazil.github.io/pr_ureia_mesmo_em_solucao_aquosa/)  
-> [Paranaguá - nitrigenados](https://quantimportbrazil.github.io/paranagua-pr_azotados/)
+> [Paranaguá - nitrogenados](https://quantimportbrazil.github.io/paranagua-pr_azotados/)
 
 > [RS - ureia ](https://quantimportbrazil.github.io/rs_ureia_mesmo_em_solucao_aquosa/)  
 > [Rio Grande - nitrigenados](https://quantimportbrazil.github.io/rio_grande-rs_azotados/)  
