@@ -20,7 +20,7 @@ Elaboradas por UF/NCM ou Município/SH4:
 > [BA - ureia](https://quantimportbrazil.github.io/ba_ureia_mesmo_em_solucao_aquosa/)  
 > [Candeias - nitrogenados](https://quantimportbrazil.github.io/candeias-ba_azotados/)  
   
-> [GO - ureia](https://github.com/QuantImportBrazil/go_ureia_mesmo_em_solucao_aquosa/settings/pages)  
+> [GO - ureia](https://quantimportbrazil.github.io/go_ureia_mesmo_em_solucao_aquosa/)  
 > [Catalão - nitrogenados](https://quantimportbrazil.github.io/catalao-go_azotados/)
   
 > [MA - ureia](https://quantimportbrazil.github.io/ma_ureia_mesmo_em_solucao_aquosa/)  
@@ -31,14 +31,14 @@ Elaboradas por UF/NCM ou Município/SH4:
 > [MT - ureia](https://quantimportbrazil.github.io/mt_ureia_mesmo_em_solucao_aquosa/)  
 > [Rondonópolis - nitrogenados](https://quantimportbrazil.github.io/rondonopolis-mt_azotados/)  
 
-> [PR - ureia](https://quantimportbrazil.github.io/paranagua-pr_azotados/)  
+> [PR - ureia](https://quantimportbrazil.github.io/pr_ureia_mesmo_em_solucao_aquosa/)  
 > [Paranaguá - nitrigenados](https://quantimportbrazil.github.io/pr_outros_cloretos_de_potassio/)  
   
 
 > [RS - ureia ](https://quantimportbrazil.github.io/rs_ureia_mesmo_em_solucao_aquosa/)  
 > [Rio Grande - nitrigenados](https://quantimportbrazil.github.io/rio_grande-rs_azotados/)  
 
-> [SP - ureia](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
+> [SP - ureia](https://quantimportbrazil.github.io/sp_ureia_mesmo_em_solucao_aquosa/)  
 > [Jundiaí - nitrigenados](https://quantimportbrazil.github.io/jundiai-sp_azotados/)  
 
 
