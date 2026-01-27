@@ -6,13 +6,26 @@
 
 ## Fertilizantes — Projeções de Importação  
 
-### Contexto: Brasil, o Maior Importador
+---  
+
+
+### Contexto:  
+
+Brasil, o Maior Importador
 
 Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/import-value-fertilizers-worldwide-by-country/)
 
+
 ---
-### Considerando o retorno iminente da produção de ureia pelas FAFENs da Petrobras, esta edição foi dedicada integralmente às previsões desse produto.  
-### É de se esperar que as previsões demonstrativas a seguir, durante o correr do ano, apresentarão erro médio maior do que o previsto, graças a esse evento.
+
+
+Ureia:  
+
+Evento - A retomada iminente da produção pela Petrobras
+
+Nesta edição, focamos nesse produto alertando que esse evento trará erros médios maiores do que o esperado
+
+
 ---
 
 Elaboradas por UF/NCM ou Município/SH4:  
