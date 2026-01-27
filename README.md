@@ -20,10 +20,10 @@ Elaboradas por UF/NCM ou Município/SH4:
 > [BA - ureia](https://quantimportbrazil.github.io/ba_ureia_mesmo_em_solucao_aquosa/)  
 > [Candeias - nitrogenados](https://quantimportbrazil.github.io/candeias-ba_azotados/)  
   
-> [GO - ureia](https://quantimportbrazil.github.io/go_ureia_mesmo_em_solucao_aquosa/)  
+> [GO - ureia](https://github.com/QuantImportBrazil/go_ureia_mesmo_em_solucao_aquosa/settings/pages)  
 > [Catalão - nitrogenados](https://quantimportbrazil.github.io/catalao-go_azotados/)
   
-> [MA - ureia](https://quantimportbrazil.github.io/ma_outros_superfosfatos/)  
+> [MA - ureia](https://quantimportbrazil.github.io/ma_ureia_mesmo_em_solucao_aquosa/)  
   
 > [MG - ureia](https://quantimportbrazil.github.io/mg_ureia_mesmo_em_solucao_aquosa/)  
 > [Uberaba - nitrogenados](https://quantimportbrazil.github.io/uberaba-mg_azotados/)  
