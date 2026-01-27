@@ -28,7 +28,7 @@ Nesta edição, focamos nesse produto alertando que esse evento trará erros mé
 
 ---
 
-Elaboradas por UF/NCM ou Município/SH4:  
+### Elaboradas por UF/NCM ou Município/SH4:  
 
 > [BA - ureia](https://quantimportbrazil.github.io/ba_ureia_mesmo_em_solucao_aquosa/)  
 > [Candeias - nitrogenados](https://quantimportbrazil.github.io/candeias-ba_azotados/)  
@@ -52,12 +52,16 @@ Elaboradas por UF/NCM ou Município/SH4:
 > [Rio Grande - nitrigenados](https://quantimportbrazil.github.io/rio_grande-rs_azotados/)  
 
 > [SP - ureia](https://quantimportbrazil.github.io/sp_ureia_mesmo_em_solucao_aquosa/)  
-> [Jundiaí - nitrigenados](https://quantimportbrazil.github.io/jundiai-sp_azotados/)  
+> [Jundiaí - nitrigenados](https://quantimportbrazil.github.io/jundiai-sp_azotados/)
+
+### Fatores Importantes:  
+
+Na parte mais abaixo de cada uma das páginas de previsão acima, consta uma tabela mensal exemplificando um fator considerado importante para a previsão feita pelo 'machine learning'
 
 
 ---  
 
-## Contato
+### Contato
 **André Coutinho Bueno**  
 Cientista de Dados e Fundador  
 [andre.bueno@quantimport.com.br](mailto:andre.bueno@quantimport.com.br)
