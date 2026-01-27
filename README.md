@@ -18,28 +18,28 @@ Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/im
 Elaboradas por UF/NCM ou Município/SH4:  
 
 > [BA - ureia](https://quantimportbrazil.github.io/ba_ureia_mesmo_em_solucao_aquosa/)  
-> [Candeias - BA - nitrogenados](https://quantimportbrazil.github.io/candeias-ba_azotados/)  
+> [Candeias - nitrogenados](https://quantimportbrazil.github.io/candeias-ba_azotados/)  
   
 > [GO - ureia](https://quantimportbrazil.github.io/go_ureia_mesmo_em_solucao_aquosa/)  
-> [Catalão - GO - nitrogenados](https://quantimportbrazil.github.io/catalao-go_azotados/)
+> [Catalão - nitrogenados](https://quantimportbrazil.github.io/catalao-go_azotados/)
   
-> [MA - outros Superforstatos](https://quantimportbrazil.github.io/ma_outros_superfosfatos/)  
+> [MA - ureia](https://quantimportbrazil.github.io/ma_outros_superfosfatos/)  
   
 > [MG - ureia](https://quantimportbrazil.github.io/mg_ureia_mesmo_em_solucao_aquosa/)  
-> [Uberaba - MG - nitrogenados](https://quantimportbrazil.github.io/uberaba-mg_azotados/)  
+> [Uberaba - nitrogenados](https://quantimportbrazil.github.io/uberaba-mg_azotados/)  
   
 > [MT - ureia](https://quantimportbrazil.github.io/mt_ureia_mesmo_em_solucao_aquosa/)  
-> [Rondonópolis - MT - nitrogenados](https://quantimportbrazil.github.io/rondonopolis-mt_azotados/)  
+> [Rondonópolis - nitrogenados](https://quantimportbrazil.github.io/rondonopolis-mt_azotados/)  
 
-> [PR - nitrigenados](https://quantimportbrazil.github.io/paranagua-pr_azotados/)  
-> [Paranaguá - PR - nitrigenados](https://quantimportbrazil.github.io/pr_outros_cloretos_de_potassio/)  
+> [PR - ureia](https://quantimportbrazil.github.io/paranagua-pr_azotados/)  
+> [Paranaguá - nitrigenados](https://quantimportbrazil.github.io/pr_outros_cloretos_de_potassio/)  
   
 
 > [RS - ureia ](https://quantimportbrazil.github.io/rs_ureia_mesmo_em_solucao_aquosa/)  
-> [Rio Grande - RS](https://quantimportbrazil.github.io/rio_grande-rs_azotados/)  
+> [Rio Grande - nitrigenados](https://quantimportbrazil.github.io/rio_grande-rs_azotados/)  
 
-> [SP](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
-> [Jundiaí - SP](https://quantimportbrazil.github.io/jundiai-sp_azotados/)  
+> [SP - ureia](https://quantimportbrazil.github.io/Demo_fertilizantes_PR/)  
+> [Jundiaí - nitrigenados](https://quantimportbrazil.github.io/jundiai-sp_azotados/)  
 
 
 ---  
