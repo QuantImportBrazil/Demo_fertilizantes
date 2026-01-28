@@ -51,7 +51,7 @@ Nesta edição, focamos nesse produto alertando que esse evento trará erros mé
 > [Rio Grande - nitrigenados](https://quantimportbrazil.github.io/rio_grande-rs_azotados/)  
 
 > [SP - ureia](https://quantimportbrazil.github.io/sp_ureia_mesmo_em_solucao_aquosa/)  
-> [Jundiaí - nitrigenados](jundiai-sp_nitrogenados)
+> [Jundiaí - nitrigenados](https://quantimportbrazil.github.io/jundiai-sp_nitrogenados)
 
 ### Fatores Importantes:  
 
