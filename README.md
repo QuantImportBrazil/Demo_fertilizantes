@@ -47,8 +47,8 @@ As previsões froam feitas mês a mês, evitando o efeito da sazonalidade sobre 
 > [Catalão - nitrogenados](https://quantimportbrazil.github.io/catalao_go_nitrogenados/)  
   
 > [MA - ureia](https://quantimportbrazil.github.io/ma_ureia/)  
-> [MA - mop](https://quantimportbrazil.github.io/ma_mop/)
-> [MA - outros_fosfatos](https://quantimportbrazil.github.io/ma_outros_superfosfatos/)
+> [MA - mop](https://quantimportbrazil.github.io/ma_mop/)  
+> [MA - outros_fosfatos](https://quantimportbrazil.github.io/ma_outros_superfosfatos/)  
 
   
 > [MG - ureia](https://quantimportbrazil.github.io/mg_ureia/)  
