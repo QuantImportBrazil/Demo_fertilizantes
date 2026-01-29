@@ -40,15 +40,16 @@ As previsões froam feitas mês a mês, evitando o efeito da sazonalidade sobre 
 ### Elaboradas por UF/NCM ou Município/SH4:  
 
 > [BA - ureia](https://quantimportbrazil.github.io/ba_ureia_mesmo_em_solucao_aquosa/)  
-> [Candeias - nitrogenados](https://quantimportbrazil.github.io/candeias-ba_azotados/)  
+> [Candeias - nitrogenados](https://quantimportbrazil.github.io/candeias_ba_nitrogenados/)  
   
 > [GO - ureia](https://quantimportbrazil.github.io/go_ureia_mesmo_em_solucao_aquosa/)  
-> [Catalão - nitrogenados](https://quantimportbrazil.github.io/catalao-go_azotados/)
+> [Catalão - nitrogenados](https://quantimportbrazil.github.io/catalao_go__nitrogenados/)
   
 > [MA - ureia](https://quantimportbrazil.github.io/ma_ureia_mesmo_em_solucao_aquosa/)  
   
 > [MG - ureia](https://quantimportbrazil.github.io/mg_ureia_mesmo_em_solucao_aquosa/)  
-> [Uberaba - nitrogenados](https://quantimportbrazil.github.io/uberaba-mg_azotados/)  
+> [Uberaba - nitrogenados](https://quantimportbrazil.github.io/uberaba_mg_nitrogenados/)
+> [Uberaba - potássicos](https://quantimportbrazil.github.io/uberaba_mg__potassicos/) 
   
 > [MT - ureia](https://quantimportbrazil.github.io/mt_ureia_mesmo_em_solucao_aquosa/)  
 > [Rondonópolis - nitrogenados](https://quantimportbrazil.github.io/rondonopolis-mt_azotados/)  
@@ -60,7 +61,8 @@ As previsões froam feitas mês a mês, evitando o efeito da sazonalidade sobre 
 > [Rio Grande - nitrogenados](https://quantimportbrazil.github.io/rio_grande-rs_azotados/)  
 
 > [SP - ureia](https://quantimportbrazil.github.io/sp_ureia_mesmo_em_solucao_aquosa/)  
-> [Jundiaí - nitrogenados](https://quantimportbrazil.github.io/jundiai-sp_nitrogenados/)
+> [Jundiaí - nitrogenados](https://quantimportbrazil.github.io/jundiai-sp_nitrogenados/)  
+> [Jundiaí - potássicos](https://quantimportbrazil.github.io/jundiai_sp_potassicos/)
 
 ### Fatores Importantes:  
 
