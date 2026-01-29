@@ -43,7 +43,7 @@ As previsões froam feitas mês a mês, evitando o efeito da sazonalidade sobre 
 > [Candeias - nitrogenados](https://quantimportbrazil.github.io/candeias_ba_nitrogenados/)  
   
 > [GO - ureia](https://quantimportbrazil.github.io/go_ureia/)  
-> [GO - ureia](https://quantimportbrazil.github.io/go_mop/)  
+> [GO - mop](https://quantimportbrazil.github.io/go_mop/)  
 > [Catalão - nitrogenados](https://quantimportbrazil.github.io/catalao_go__nitrogenados/)  
   
 > [MA - ureia](https://quantimportbrazil.github.io/ma_ureia/)
