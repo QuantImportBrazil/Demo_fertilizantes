@@ -44,7 +44,7 @@ As previsões froam feitas mês a mês, evitando o efeito da sazonalidade sobre 
   
 > [GO - ureia](https://quantimportbrazil.github.io/go_ureia/)  
 > [GO - mop](https://quantimportbrazil.github.io/go_mop/)  
-> [Catalão - nitrogenados](https://quantimportbrazil.github.io/catalao_go__nitrogenados/)  
+> [Catalão - nitrogenados](https://quantimportbrazil.github.io/catalao_go_nitrogenados/)  
   
 > [MA - ureia](https://quantimportbrazil.github.io/ma_ureia/)  
 > [MA - mop](https://quantimportbrazil.github.io/ma_mop/)  
@@ -57,13 +57,13 @@ As previsões froam feitas mês a mês, evitando o efeito da sazonalidade sobre 
 > [Rondonópolis - nitrogenados](https://quantimportbrazil.github.io/rondonopolis_mt_nitrogenados/)  
 
 > [PR - ureia](https://quantimportbrazil.github.io/pr_ureia/)  
-> [Paranaguá - nitrogenados](https://quantimportbrazil.github.io/paranagua-pr_azotados/)
+> [Paranaguá - nitrogenados](https://quantimportbrazil.github.io/paranagua_pr_nitrogenados/)
 
 > [RS - ureia ](https://quantimportbrazil.github.io/rs_ureia/)  
 > [Rio Grande - nitrogenados](https://quantimportbrazil.github.io/rio_grande_rs_nitrogenados/)  
 
 > [SP - ureia](https://quantimportbrazil.github.io/sp_ureia/)  
-> [Jundiaí - nitrogenados](https://quantimportbrazil.github.io/jundiai-sp_nitrogenados/)  
+> [Jundiaí - nitrogenados](https://quantimportbrazil.github.io/jundiai_sp_nitrogenados/)  
 > [Jundiaí - potássicos](https://quantimportbrazil.github.io/jundiai_sp_potassicos/)
 
 ### Fatores Importantes:  
