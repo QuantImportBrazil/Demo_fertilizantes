@@ -31,7 +31,7 @@ Nesta edição, focamos nesse produto alertando que esse evento trará erros mé
 
 Síntese dos Resultados:  
 
-As previsões feitas com 'machine learning' obtiveram erro médio de 10 a 50 % menor do que as feitas com regressão linear.
+Em geral as previsões feitas com 'machine learning' obtiveram erro médio menor do que as feitas com regressão linear.
 
 As previsões froam feitas mês a mês, evitando o efeito da sazonalidade sobre a comparação feita.
 
