@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport   
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
 
@@ -6,75 +6,70 @@
 
 ## Fertilizantes — Projeções de Importação  
 
----  
-
+---
 
 ### Contexto:  
 
-Brasil, o Maior Importador
+Brasil, o maior importador  
 
 Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/import-value-fertilizers-worldwide-by-country/)
 
-
 ---
-
 
 Ureia:  
 
-Evento - A retomada iminente da produção pela Petrobras
+Evento – retomada iminente da produção pela Petrobras  
 
-Nesta edição, focamos nesse produto alertando que esse evento trará erros médios maiores do que o esperado
-
+Nesta edição, focamos nesse produto, alertando que esse evento tende a gerar **erros médios maiores do que o usual** nas previsões.
 
 ---
 
-
 Síntese dos Resultados:  
 
-Em geral as previsões feitas com 'machine learning' obtiveram erro médio menor do que as feitas com regressão linear.
+Em geral, as previsões feitas com *machine learning* apresentaram **erro médio menor** do que aquelas obtidas por regressão linear.  
 
-As previsões froam feitas mês a mês, evitando o efeito da sazonalidade sobre a comparação feita.
+As previsões foram realizadas **mês a mês**, evitando o efeito da sazonalidade sobre a comparação entre os métodos.
 
 ---
 
 ### Elaboradas por UF/NCM ou Município/SH4:  
 
-> [BA - ureia](https://quantimportbrazil.github.io/ba_ureia/)  
-> [Candeias - nitrogenados](https://quantimportbrazil.github.io/candeias_ba_nitrogenados/)  
-  
-> [GO - ureia](https://quantimportbrazil.github.io/go_ureia/)  
-> [GO - mop](https://quantimportbrazil.github.io/go_mop/)  
-> [Catalão - nitrogenados](https://quantimportbrazil.github.io/catalao_go_nitrogenados/)  
-  
-> [MA - ureia](https://quantimportbrazil.github.io/ma_ureia/)  
-> [MA - mop](https://quantimportbrazil.github.io/ma_mop/)  
-> [MA - outros_fosfatos](https://quantimportbrazil.github.io/ma_outros_superfosfatos/)  
+> [BA – ureia](https://quantimportbrazil.github.io/ba_ureia/)  
+> [Candeias – nitrogenados](https://quantimportbrazil.github.io/candeias_ba_nitrogenados/)  
 
-  
-> [MG - ureia](https://quantimportbrazil.github.io/mg_ureia/)  
-> [Uberaba - nitrogenados](https://quantimportbrazil.github.io/uberaba_mg_nitrogenados/)
-  
-> [MT - ureia](https://quantimportbrazil.github.io/mt_ureia/)  
-> [Rondonópolis - nitrogenados](https://quantimportbrazil.github.io/rondonopolis_mt_nitrogenados/)  
+> [GO – ureia](https://quantimportbrazil.github.io/go_ureia/)  
+> [GO – MOP](https://quantimportbrazil.github.io/go_mop/)  
+> [Catalão – nitrogenados](https://quantimportbrazil.github.io/catalao_go_nitrogenados/)  
 
-> [PR - ureia](https://quantimportbrazil.github.io/pr_ureia/)  
-> [Paranaguá - nitrogenados](https://quantimportbrazil.github.io/paranagua_pr_nitrogenados/)
+> [MA – ureia](https://quantimportbrazil.github.io/ma_ureia/)  
+> [MA – MOP](https://quantimportbrazil.github.io/ma_mop/)  
+> [MA – outros fosfatos](https://quantimportbrazil.github.io/ma_outros_superfosfatos/)  
 
-> [RS - ureia ](https://quantimportbrazil.github.io/rs_ureia/)  
-> [Rio Grande - nitrogenados](https://quantimportbrazil.github.io/rio_grande_rs_nitrogenados/)  
+> [MG – ureia](https://quantimportbrazil.github.io/mg_ureia/)  
+> [Uberaba – nitrogenados](https://quantimportbrazil.github.io/uberaba_mg_nitrogenados/)  
 
-> [SP - ureia](https://quantimportbrazil.github.io/sp_ureia/)  
-> [Jundiaí - nitrogenados](https://quantimportbrazil.github.io/jundiai_sp_nitrogenados/)  
-> [Jundiaí - potássicos](https://quantimportbrazil.github.io/jundiai_sp_potassicos/)
+> [MT – ureia](https://quantimportbrazil.github.io/mt_ureia/)  
+> [Rondonópolis – nitrogenados](https://quantimportbrazil.github.io/rondonopolis_mt_nitrogenados/)  
+
+> [PR – ureia](https://quantimportbrazil.github.io/pr_ureia/)  
+> [Paranaguá – nitrogenados](https://quantimportbrazil.github.io/paranagua_pr_nitrogenados/)  
+
+> [RS – ureia](https://quantimportbrazil.github.io/rs_ureia/)  
+> [Rio Grande – nitrogenados](https://quantimportbrazil.github.io/rio_grande_rs_nitrogenados/)  
+
+> [SP – ureia](https://quantimportbrazil.github.io/sp_ureia/)  
+> [Jundiaí – nitrogenados](https://quantimportbrazil.github.io/jundiai_sp_nitrogenados/)  
+> [Jundiaí – potássicos](https://quantimportbrazil.github.io/jundiai_sp_potassicos/)
+
+---
 
 ### Fatores Importantes:  
 
-Na parte mais abaixo de cada uma das páginas de previsão acima, consta uma tabela mensal exemplificando com um fator considerado importante para a previsão feita pelo 'machine learning'
+Na parte inferior de cada uma das páginas de previsão acima, consta uma **tabela mensal** exemplificando ao menos um dos fatores considerados relevantes pelos modelos de *machine learning* na previsão realizada.
 
+---
 
----  
-
-### Contato
+### Contato  
 **André Coutinho Bueno**  
 Cientista de Dados e Fundador  
 [andre.bueno@quantimport.com.br](mailto:andre.bueno@quantimport.com.br)
