@@ -40,7 +40,7 @@ As previsões foram realizadas **mês a mês**, evitando o efeito da sazonalidad
 
 ### Elaboradas por UF/NCM ou Município/SH4:  
 
-> [BA – ureia](https://quantimportbrazil.github.io/ba_ureia/)
+> [BA – ureia](https://quantimportbrazil.github.io/ba_ureia/)  
 > [BA – NK](https://quantimportbrazil.github.io/ba_nk/)  
 > [Candeias – nitrogenados](https://quantimportbrazil.github.io/candeias_ba_nitrogenados/)  
 
