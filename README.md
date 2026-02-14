@@ -30,7 +30,7 @@ Em geral, as previsões feitas com *machine learning* apresentaram **erro médio
 
 As previsões foram realizadas **mês a mês**, evitando o efeito da sazonalidade sobre a comparação entre os métodos.
 
-> A análise conjunta de todas as páginas de previsão indica que, **em 100% dos casos**, os modelos de *machine learning* apresentaram erro médio inferior ao da regressão linear.  
+> A análise conjunta de todas as páginas de previsão indica que, **aproximadamente em 100% dos casos**, os modelos de *machine learning* apresentaram erro médio inferior ao da regressão linear.  
 >
 > Considerando o conjunto de produtos analisados, a **redução média do erro foi de aproximadamente 14%**, o que corresponde a cerca de **5 kt/mês** a menos de desvio nas previsões.  
 >
@@ -67,6 +67,13 @@ As previsões foram realizadas **mês a mês**, evitando o efeito da sazonalidad
 > [SP – ureia](https://quantimportbrazil.github.io/sp_ureia/)  
 > [Jundiaí – nitrogenados](https://quantimportbrazil.github.io/jundiai_sp_nitrogenados/)  
 > [Jundiaí – potássicos](https://quantimportbrazil.github.io/jundiai_sp_potassicos/)
+
+---
+
+### Elaboradas por URF/UF/NCM:  
+
+> [Porto de Santos para MT - MOP](https://quantimportbrazil.github.io/porto_de_santos_para_mt_mop_fev_26/)  
+> [Porto de Santarém para MT - MOP](https://quantimportbrazil.github.io/santarem_para_mt_mop_fev_26/)  
 
 ---
 
