@@ -16,14 +16,6 @@ Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/im
 
 ---
 
-Ureia:  
-
-Evento – retomada iminente da produção pela Petrobras  
-
-Nesta edição, focamos nesse produto, alertando que esse evento tende a gerar **erros médios maiores do que o usual** nas previsões.
-
----
-
 Síntese dos Resultados:  
 
 Em geral, as previsões feitas com *machine learning* apresentaram **erro médio menor** do que aquelas obtidas por regressão linear.  
@@ -38,33 +30,48 @@ As previsões foram realizadas **mês a mês**, evitando o efeito da sazonalidad
 
 ---
 
-### Elaboradas por UF/NCM ou Município/SH4:  
+### Elaboradas por UF/NCM:  
 
 > [BA – ureia](https://quantimportbrazil.github.io/ba_ureia/)  
 > [BA – NK](https://quantimportbrazil.github.io/ba_nk/)  
-> [Candeias – nitrogenados](https://quantimportbrazil.github.io/candeias_ba_nitrogenados/)  
 
 > [GO – ureia](https://quantimportbrazil.github.io/go_ureia/)  
 > [GO – MOP](https://quantimportbrazil.github.io/go_mop/)  
-> [Catalão – nitrogenados](https://quantimportbrazil.github.io/catalao_go_nitrogenados/)  
 
 > [MA – ureia](https://quantimportbrazil.github.io/ma_ureia/)  
 > [MA – MOP](https://quantimportbrazil.github.io/ma_mop/)  
 > [MA – outros fosfatos](https://quantimportbrazil.github.io/ma_outros_superfosfatos/)  
 
 > [MG – ureia](https://quantimportbrazil.github.io/mg_ureia/)  
-> [Uberaba – nitrogenados](https://quantimportbrazil.github.io/uberaba_mg_nitrogenados/)  
 
 > [MT – ureia](https://quantimportbrazil.github.io/mt_ureia/)  
-> [Rondonópolis – nitrogenados](https://quantimportbrazil.github.io/rondonopolis_mt_nitrogenados/)  
 
 > [PR – ureia](https://quantimportbrazil.github.io/pr_ureia/)  
-> [Paranaguá – nitrogenados](https://quantimportbrazil.github.io/paranagua_pr_nitrogenados/)  
 
 > [RS – ureia](https://quantimportbrazil.github.io/rs_ureia/)  
-> [Rio Grande – nitrogenados](https://quantimportbrazil.github.io/rio_grande_rs_nitrogenados/)  
 
 > [SP – ureia](https://quantimportbrazil.github.io/sp_ureia/)  
+
+---
+
+### Elaboradas por Município/SH4:  
+
+> [Candeias – nitrogenados](https://quantimportbrazil.github.io/candeias_ba_nitrogenados/)  
+
+> [Catalão – nitrogenados](https://quantimportbrazil.github.io/catalao_go_nitrogenados/)  
+
+> [MA – ureia](https://quantimportbrazil.github.io/ma_ureia/)  
+> [MA – MOP](https://quantimportbrazil.github.io/ma_mop/)  
+> [MA – outros fosfatos](https://quantimportbrazil.github.io/ma_outros_superfosfatos/)  
+
+> [Uberaba – nitrogenados](https://quantimportbrazil.github.io/uberaba_mg_nitrogenados/)  
+
+> [Rondonópolis – nitrogenados](https://quantimportbrazil.github.io/rondonopolis_mt_nitrogenados/)  
+
+> [Paranaguá – nitrogenados](https://quantimportbrazil.github.io/paranagua_pr_nitrogenados/)  
+
+> [Rio Grande – nitrogenados](https://quantimportbrazil.github.io/rio_grande_rs_nitrogenados/)  
+
 > [Jundiaí – nitrogenados](https://quantimportbrazil.github.io/jundiai_sp_nitrogenados/)  
 > [Jundiaí – potássicos](https://quantimportbrazil.github.io/jundiai_sp_potassicos/)
 
