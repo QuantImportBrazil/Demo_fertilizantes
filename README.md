@@ -10,9 +10,9 @@
 
 ### Contexto:  
 
-Brasil, o maior importador  
+Brasil, líder mundial em importação de fertilizantes
 
-Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/import-value-fertilizers-worldwide-by-country/)
+Fonte e figura: [Statista (2024)](https://www.statista.com/statistics/1278061/import-value-fertilizers-worldwide-by-country/)
 
 ---
 
