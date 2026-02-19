@@ -16,11 +16,11 @@ Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/im
 
 ---
 
-Síntese dos Resultados:  
+**Síntese dos Resultados:**
 
-Em todas as previsões apresentadas a seguir as produzidas com **machine learning** apresentaram **resultado melhor**, ou **erro médio menor** do que aquelas obtidas por **regressão linear**.  
+Em todas as médias anuais do erro mensal, as previsões produzidas com machine learning apresentaram desempenho superior — isto é, erro menor — em comparação às obtidas por regressão linear.
 
-As previsões foram realizadas **mês a mês**, evitando o efeito da sazonalidade sobre a comparação entre os métodos.  
+Isso evidencia que o sistema desenvolvido não apenas executa corretamente as etapas técnicas propostas, mas também gera superioridade preditiva consistente frente ao método tradicional de referência. 
 
 ---
 
@@ -54,7 +54,7 @@ As previsões foram realizadas **mês a mês**, evitando o efeito da sazonalidad
 
 ### Fatores Importantes:  
 
-Na parte inferior de cada uma das páginas de previsão acima, consta uma **tabela mensal** exemplificando ao menos um dos fatores considerados relevantes pelos modelos de *machine learning* na previsão realizada.
+Na parte inferior de **cada uma das páginas** de previsão, consta uma **tabela mensal** exemplificando ao menos um dos **fatores** considerados **importantes** pelos modelos de **machine learning** na previsão realizada.
 
 ---
 
