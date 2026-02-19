@@ -46,7 +46,8 @@ As previsões foram realizadas **mês a mês**, evitando o efeito da sazonalidad
 
 > [RS – ureia](https://quantimportbrazil.github.io/rs_mop_fev_26/)  
 
-> [SP – ureia](https://quantimportbrazil.github.io/sp_mop_fev_26/)  
+> [SP – ureia](https://quantimportbrazil.github.io/sp_mop_fev_26/)
+
 
 ---
 
