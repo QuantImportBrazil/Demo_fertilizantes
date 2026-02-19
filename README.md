@@ -32,25 +32,21 @@ As previsões foram realizadas **mês a mês**, evitando o efeito da sazonalidad
 
 ### Elaboradas por UF/NCM:  
 
-> [BA – ureia](https://quantimportbrazil.github.io/ba_ureia/)  
-> [BA – NK](https://quantimportbrazil.github.io/ba_nk/)  
+> [BA – ureia](https://quantimportbrazil.github.io/ba_mop_fev_26/)  
 
-> [GO – ureia](https://quantimportbrazil.github.io/go_ureia/)  
-> [GO – MOP](https://quantimportbrazil.github.io/go_mop/)  
+> [GO – ureia](https://quantimportbrazil.github.io/go_mop_fev_26/)  
 
-> [MA – ureia](https://quantimportbrazil.github.io/ma_ureia/)  
-> [MA – MOP](https://quantimportbrazil.github.io/ma_mop/)  
-> [MA – outros fosfatos](https://quantimportbrazil.github.io/ma_outros_superfosfatos/)  
+> [MA – ureia](https://quantimportbrazil.github.io/ma_mop_fev_26/)  
 
-> [MG – ureia](https://quantimportbrazil.github.io/mg_ureia/)  
+> [MG – ureia](https://quantimportbrazil.github.io/mg_mop_fev_26/)  
 
-> [MT – ureia](https://quantimportbrazil.github.io/mt_ureia/)  
+> [MT – ureia](https://quantimportbrazil.github.io/mt_mop_fev_26/)  
 
-> [PR – ureia](https://quantimportbrazil.github.io/pr_ureia/)  
+> [PR – ureia](https://quantimportbrazil.github.io/pr_mop_fev_26/)  
 
-> [RS – ureia](https://quantimportbrazil.github.io/rs_ureia/)  
+> [RS – ureia](https://quantimportbrazil.github.io/rs_mop_fev_26/)  
 
-> [SP – ureia](https://quantimportbrazil.github.io/sp_ureia/)  
+> [SP – ureia](https://quantimportbrazil.github.io/sp_mop_fev_26/)  
 
 ---
 
