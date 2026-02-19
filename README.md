@@ -18,15 +18,9 @@ Fonte e figura: [Statista (2023)](https://www.statista.com/statistics/1278061/im
 
 Síntese dos Resultados:  
 
-Em geral, as previsões feitas com *machine learning* apresentaram **erro médio menor** do que aquelas obtidas por regressão linear.  
+Em todas as previsões apresentadas a seguir as produzidas com *machine learning* apresentaram **resultado melhor**, ou **erro médio menor** do que aquelas obtidas por regressão linear.  
 
-As previsões foram realizadas **mês a mês**, evitando o efeito da sazonalidade sobre a comparação entre os métodos.
-
-> A análise conjunta de todas as páginas de previsão indica que, **aproximadamente em 100% dos casos**, os modelos de *machine learning* apresentaram erro médio inferior ao da regressão linear.  
->
-> Considerando o conjunto de produtos analisados, a **redução média do erro foi de aproximadamente 14%**, o que corresponde a cerca de **5 kt/mês** a menos de desvio nas previsões.  
->
-> Em termos operacionais, essa diferença representa ganhos relevantes na programação logística, na contratação de fretes e na gestão de estoques ao longo do ano.
+As previsões foram realizadas **mês a mês**, evitando o efeito da sazonalidade sobre a comparação entre os métodos.  
 
 ---
 
