@@ -22,6 +22,14 @@ Em todas as médias anuais do erro mensal, as previsões produzidas com machine 
 
 Isso evidencia que o sistema desenvolvido não apenas executa corretamente as etapas técnicas propostas, mas também gera superioridade preditiva consistente frente ao método tradicional de referência. 
 
+
+
+---
+
+### Elaboradas por URF/NCM:  
+
+> [IRF São Luis - MA – Outros Superfosfatos](https://quantimportbrazil.github.io/irf_sao_luis_outros_superfosfatos_ficut8_feateng0_fev_26/)  
+
 ---
 
 ### Elaboradas por UF/NCM:  
@@ -31,7 +39,6 @@ Isso evidencia que o sistema desenvolvido não apenas executa corretamente as et
 > [GO – MOP](https://quantimportbrazil.github.io/go_mop_fev_26/)  
 
 > [MA – MOP](https://quantimportbrazil.github.io/ma_mop_fev_26/)  
-> [MA – Outros Superfosfatos](https://quantimportbrazil.github.io/irf_sao_luis_outros_superfosfatos_ficut8_feateng0_fev_26/)  
 
 > [MG – MOP](https://quantimportbrazil.github.io/mg_mop_fev_26/)  
 
