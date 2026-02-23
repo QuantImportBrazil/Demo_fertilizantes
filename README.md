@@ -43,6 +43,23 @@ Isso evidencia que o sistema desenvolvido não apenas executa corretamente as et
 
 > [SP – MOP](https://quantimportbrazil.github.io/sp_mop_fev_26/)
 
+---
+
+### Elaboradas por MUN/SH4:  
+
+> [Candeias - BA - NP ou NK ou PK](https://quantimportbrazil.github.io/candeias_np_nk_pk_ficut8_feateng2_fev_26/)
+
+> [Paranaguá - PR - NP ou NK ou PK](https://quantimportbrazil.github.io/paranagua_np_nk_pk_ficut8_feateng2_fev_26/)  
+
+> [Rio Grande - RS - NP ou NK ou PK](https://quantimportbrazil.github.io/rio_grande_np_nk_pk_ficut8_feateng2_fev_26/)
+
+> [Rondonópolis - MT - Nitrogenados](https://quantimportbrazil.github.io/rondonopolis_nitrogenados_ficut8_feateng2_fev_26/)  
+
+> [São Francisco do Sul - SC - Nitrogenados](https://quantimportbrazil.github.io/sao_francisco_do_sul_nitrogenados_ficut8_feateng2_fev_26/)
+
+> [São Luis - MA - NP ou NK ou PK](https://quantimportbrazil.github.io/sao_luis_np_nk_pk_ficut8_feateng2_fev_26/)
+
+
 
 ---
 
