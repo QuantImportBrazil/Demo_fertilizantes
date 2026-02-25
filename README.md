@@ -66,6 +66,8 @@ Isso evidencia que o sistema desenvolvido não apenas executa corretamente as et
 
 > [São Luis - MA - NP ou NK ou PK](https://quantimportbrazil.github.io/sao_luis_np_nk_pk_ficut8_feateng2_fev_26/)
 
+> [Uberaba - MG - Nitrogenados](https://quantimportbrazil.github.io/uberaba_nitrogenados_ficut7_feateng2_mun_expl_grouped1_fi_cut_reduc0.001_fev_26_1/)
+
 
 
 ---
