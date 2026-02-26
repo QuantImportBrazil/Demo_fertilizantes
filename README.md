@@ -40,7 +40,9 @@ Isso evidencia que o sistema desenvolvido não apenas executa corretamente as et
 
 > [MA – MOP](https://quantimportbrazil.github.io/ma_mop_fev_26/)  
 
-> [MG – MOP](https://quantimportbrazil.github.io/mg_mop_fev_26/)  
+> [MG – MOP](https://quantimportbrazil.github.io/mg_mop_fev_26/)
+
+> [MG – Café](https://quantimportbrazil.github.io/mg_cafe_nao_torrado_ficut7_feateng2_fi_cut_reduc0.001_fev_26_1/)
 
 > [MT – MOP](https://quantimportbrazil.github.io/mt_mop_fev_26/)  
 
@@ -48,7 +50,7 @@ Isso evidencia que o sistema desenvolvido não apenas executa corretamente as et
 
 > [RS – MOP](https://quantimportbrazil.github.io/rs_mop_fev_26/)  
 
-> [SP – MOP](https://quantimportbrazil.github.io/sp_mop_fev_26/)
+> [SP – MOP](https://quantimportbrazil.github.io/sp_mop_fev_26/)  
 
 ---
 
